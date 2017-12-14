@@ -1,0 +1,10 @@
+.container{
+    width: 30%;
+    height: 30%
+        
+}
+.table-overflow{
+    max-height: 100px;
+    overflow-y: auto;
+}
+
